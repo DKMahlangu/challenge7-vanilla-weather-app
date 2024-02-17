@@ -1,4 +1,14 @@
 body {
     background-color: #f9f7fe;
 }
+.vanilla-weather-app {
+    background: linear-gradient(120deg, #0d3642 0%, #103e6d 100%);
+    margin: 45px auto;
+    max-width: 600px;
+    padding: 30px;
+    box-shadow: 0 30px 50px rgba(38, 37, 41, 0.08);
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#f9f7fe;
+}
     
