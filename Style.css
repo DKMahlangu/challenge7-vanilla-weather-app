@@ -10,5 +10,21 @@ body {
     border-radius: 20px;
     font-family: Arial, Helvetica, sans-serif;
     color:#f9f7fe;
+}  
+  .search-form-input {
+    background-color: #f9f7fe;
+    border: none;
+    border-radius: 6px;
+    width: 80%;
+    padding: 13px 20px;
+    font-size: 16px;
+  }
+.button {
+    background: #6897c5;
+    padding: 13px 20px;
+    border: none;
+    margin-left: 5px;
+    border-radius: 6px;
+    color: #f9f7fe;
+    font-size: 16px;
 }
-    
