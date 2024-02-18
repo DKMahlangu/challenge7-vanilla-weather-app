@@ -52,13 +52,12 @@ main {
     display: flex;
 }
 .icon {
-    font-size: 50px;
-    margin-top: 22px;
-    
+    width: 120px;
+    height: 120px; 
+     
 }
 .temperature {
     font-size: 88px;
-    margin-left: 10px;
     margin-top: 12px;
     font-weight: bold;
 }
